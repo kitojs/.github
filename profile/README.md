@@ -5,7 +5,7 @@
   
 ---
   
-<img src="./logo.png" height="200px" />
+<img src="../logo.png" height="200px" />
 
 ### A web framework written in Rust for TypeScript.
 
